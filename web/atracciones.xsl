@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    * Nombre: Zuriñe Galán 
+    * Fecha: 06/03/2025 
+    * Modulo: LMSGI. 
+    * UD: UD4 Transformación de datos. 
+    * Tarea: LMSGI04 Tarea de evaluación 02 - XSLT 
+    * Descripción: Plantilla de atracciones. Muestra en un página html la información correspondiente a las atracciones del archivo xml.
+
+    * Enlace a la página: https://zurige.github.io/lmsgi_ud04
+    * Enlace a la autoevaluación: 
+    https://docs.google.com/document/d/13jelUVwhXHtS1Go8iKn7TOns3itz1j1Cc_CG1kwwhJo/edit?usp=sharing
+-->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="2.0">
 <xsl:output encoding="UTF-8" method="html" doctype-system="about:legacy-compat"/>
 
